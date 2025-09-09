@@ -1,1 +1,3 @@
 This is an dummy repository
+
+This changes has been made by sample2 branch
